@@ -1,5 +1,5 @@
 import math
 class Exponent:
     @staticmethod
-    def exponent(base, exponent):
+    def power(base, exponent):
         return  math.pow(base,exponent)

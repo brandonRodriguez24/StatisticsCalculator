@@ -1,5 +1,5 @@
 import math
 class SquareRoot:
     @staticmethod
-    def squareRoot(radicand):
+    def root(radicand):
         return math.sqrt(radicand)
