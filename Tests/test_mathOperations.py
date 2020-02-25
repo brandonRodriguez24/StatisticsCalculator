@@ -1,5 +1,4 @@
 import unittest
-
 from mathOperations.addition import Addition
 from mathOperations.subtraction import Subtraction
 from mathOperations.multiplication import Multiplication
@@ -7,6 +6,7 @@ from mathOperations.division import Division
 from mathOperations.exponent import Exponent
 from mathOperations.logarithm import Logarithm
 from mathOperations.sqrRoot import SquareRoot
+
 
 class MyTestCase(unittest.TestCase):
 
